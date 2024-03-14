@@ -1,5 +1,5 @@
 {
-  "name": "ahj-diploma-frontend",
+  "name": "chat-bot-gp",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,6 @@
     "build": "webpack --config webpack.prod.js",
     "lint": "eslint ."
   },
-  "repository": "https://github.com/GLM-Alyona/ahj-diploma-frontend.git",
   "author": "Alyona <glmalyona@gmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -37,5 +36,6 @@
   },
   "dependencies": {
     "core-js": "^3.32.2"
-  }
+  },
+  "repository": "https://github.com/GLM-Alyona/chat-bot-gp.git"
 }
