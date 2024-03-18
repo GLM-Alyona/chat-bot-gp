@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/no47jv0nxea4pvyf?svg=true)](https://ci.appveyor.com/project/GLM-Alyona/ahj-diploma-frontend)
+[![Build status](https://ci.appveyor.com/api/projects/status/2d3uv5099htrho4w?svg=true)](https://ci.appveyor.com/project/GLM-Alyona/chat-bot-gp)
 
 # Chaos Organizer
 
