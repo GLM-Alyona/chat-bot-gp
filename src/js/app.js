@@ -32,7 +32,7 @@ import {
 window.onload = () => {
   [...document.forms].forEach((form) => form.reset());
 
-  const ws = new WebSocket('ws://glm-alyona-server-chat-bot-b4c8.twc1.net:8080/ws');
+  const ws = new WebSocket('wss://glm-alyona-server-chat-bot-b4c8.twc1.net:8080/ws');
   console.log(ws);
   let allLoaded = false;
 
